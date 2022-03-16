@@ -1,1 +1,26 @@
-
+<bug report>
+    <attribute>Description</attribute>
+        <step>Steps to reproduce</step>
+        <step>Actual result</step>
+        <step>Expected result</step>
+    <attribute>Project</attribute>
+    <attribute>Component</attribute>
+    <attribute>Build version</attribute>
+    <attribute>Severity</attribute>
+        <classification>Blocker</classification>
+        <classification>Critical</classification>
+        <classification>Major</classification>
+        <classification>Minor</classification>
+        <classification>Trivial</classification>
+    <attribute>Priority</attribute>
+        <classification>High</classification>
+        <classification>Medium</classification>
+        <classification>Low</classification>
+    <attribute>Status</attribute>
+    <attribute>Author</attribute>
+    <attribute>Environment</attribute>
+        <view>Dev</view>
+        <view>Stage</view>
+        <view>Prod</view>
+    <attribute>Attachments</attribute>
+<bug report>
