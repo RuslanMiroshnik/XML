@@ -1,0 +1,43 @@
+<skills>
+	<hard skills>
+		<Теория тестирования>
+			<topic>Жизненный цикл ПО SDLC</topic>
+			<topic>Принципы тестирования</topic>
+			<topic>QA, QC, Testing</topic>
+			<topic>Верификация, Валидация</topic>
+			<topic>Класификация тестирования</topic>
+			<topic>Модели разработки ПО</topic>
+			<topic>Тестовая документация</topic>
+			<topic>Техники тест-дизайна</topic>
+			<topic>Отчет о дефектке (баг-репорт)</topic>
+			<topic>Клиент-серверная архитектура</topic>
+			<topic>Тестирование требований</topic>
+		</Теория тестирования>
+		<section>ОС Linux</section>
+		<section>Тестирование мобильных приложений</section>
+		<section>Тестирование API</section>
+		<section>Тестирования веб сайтов</section>
+		<section>Web-технологии (протоколы, сервисы) HTTP, TCP/IP</section>
+		<section>HTML, CSS, JavaScript</section>
+		<Изучение инструментов>
+			<tool>Android Studio</tool>
+			<tool>Postman</tool>
+			<tool>Charles</tool>
+			<tool>Jmeter</tool>
+			<tool>Google Chrome Devtools</tool>
+			<tool>Git</tool>
+			<tool>Postgresql</tool>
+		</Изучение инструментов>
+	<soft skill>
+		<skill>Самообучаемость</skill>
+		<skill>Коммуникабельность</skill>
+		<skill>Общение</skill>
+		<skill>Командность</skill>
+		<skill>Решение проблем</skill>
+       	</soft skill>
+	<Трудоустройство>
+		<topic>Поиск вакансий</topic>
+		<topic>Составление резюм</topic>
+		<topic>Прохождение собеседований</topic>
+	</Трудоустройство>
+</skills>
