@@ -28,13 +28,14 @@
 			<tool>Git</tool>
 			<tool>Postgresql</tool>
 		</Изучение инструментов>
-	<soft skill>
+	</hard skills>
+	<soft skills>
 		<skill>Самообучаемость</skill>
 		<skill>Коммуникабельность</skill>
 		<skill>Общение</skill>
 		<skill>Командность</skill>
 		<skill>Решение проблем</skill>
-       	</soft skill>
+       	</soft skills>
 	<Трудоустройство>
 		<topic>Поиск вакансий</topic>
 		<topic>Составление резюм</topic>
